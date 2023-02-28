@@ -2,9 +2,10 @@
 #include <stdio.h>
 main()
 {
-int x, y;
+int x, y, z;
 printf("insert the number\n");
 scanf("%d", &x);
-y=5*x+20;
-printf("number is %d", y);
+y=5x+20;
+z=y2;
+printf("number is %d", z);
 }
